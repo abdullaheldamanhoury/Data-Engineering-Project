@@ -14,7 +14,7 @@
 * Step 5: Complete Project Write Up
 
 ## Datasets 
-- I94 Immigration Data: This data comes from the US National Tourism and Trade Office. A data dictionary is included. [This](https://www.trade.gov/national-travel-and-tourism-office) is where the data comes from. There's a sample file so you can take a look at the data in csv format before reading it all in.
+- I94 Immigration Data: This data comes from the US National Tourism and Trade Office. A data dictionary is included in project. [This](https://www.trade.gov/national-travel-and-tourism-office) is where the data comes from.
 - World Temperature Data: This dataset came from Kaggle. You can read more about it [here](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data).
 - U.S. City Demographic Data: This data comes from OpenSoft. You can read more about it [here](https://public.opendatasoft.com/explore/dataset/us-cities-demographics/export/).
 - Airport Code Table: This is a simple table of airport codes and corresponding cities. It comes from [here](https://datahub.io/core/airport-codes#data).
