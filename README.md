@@ -14,7 +14,7 @@
 * Step 5: Complete Project Write Up
 
 ## Datasets 
-- I94 Immigration Data: This data comes from the US National Tourism and Trade Office. A data dictionary is included in the workspace. [This](https://www.trade.gov/national-travel-and-tourism-office) is where the data comes from. There's a sample file so you can take a look at the data in csv format before reading it all in. You do not have to use the entire dataset, just use what you need to accomplish the goal you set at the beginning of the project.
+- I94 Immigration Data: This data comes from the US National Tourism and Trade Office. A data dictionary is included. [This](https://www.trade.gov/national-travel-and-tourism-office) is where the data comes from. There's a sample file so you can take a look at the data in csv format before reading it all in.
 - World Temperature Data: This dataset came from Kaggle. You can read more about it [here](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data).
 - U.S. City Demographic Data: This data comes from OpenSoft. You can read more about it [here](https://public.opendatasoft.com/explore/dataset/us-cities-demographics/export/).
 - Airport Code Table: This is a simple table of airport codes and corresponding cities. It comes from [here](https://datahub.io/core/airport-codes#data).
@@ -36,9 +36,6 @@
     - Create the fact table from the cleaned I94 dataset.
 
 -  Apache Spark is the technology that used in this project
-
--  Apache Spark is the technology that used in this project
-
 
 ## Conceptual Data Model
 
