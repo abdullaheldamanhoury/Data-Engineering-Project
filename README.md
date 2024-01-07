@@ -1,3 +1,7 @@
+## Technologies
+* Python
+* Apache Spark 
+* Pandas ,re , UDF
 
 ## Project Summary
 
