@@ -24,7 +24,7 @@
 - Airport Code Table: This is a simple table of airport codes and corresponding cities. It comes from [here](https://datahub.io/core/airport-codes#data).
 
 ## Scope of the Project
-* The steps to create the analytics model database: 
+### The steps to create the analytics model database: 
 - Use pandas and Spark python dataframe to load the data
 - Explore I94 immigration dataset to identify missing values and perform data cleaning
 - Explore demographics dataset to identify missing values and perform data cleaning
