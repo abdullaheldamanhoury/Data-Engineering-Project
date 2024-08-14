@@ -5,7 +5,7 @@
 
 ## Project Summary
 
-* This project aims to create a schema that can derive various correlations using three datasets, demographics of US states and cities dataset, global temperature data of countries dataset and i94 immigration dataset. For example, is there any correlation beetween the average temperature of residence country and going to united state.
+* This project aims to create a schema that can derive various correlations using three datasets, demographics of US states and cities dataset, global temperature data of countries dataset and i94 immigration dataset. For example, is there any correlation between the average temperature of residence country and going to united state.
 
 
 
